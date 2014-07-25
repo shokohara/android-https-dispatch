@@ -1,0 +1,13 @@
+bin/
+target/
+gen/
+**/target/
+.idea/
+.idea_modules/
+*.class
+**/*.class
+local.properties
+.DS_store
+
+#screenshots
+device-*.png
